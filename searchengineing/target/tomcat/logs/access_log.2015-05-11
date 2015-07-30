@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [11/May/2015:16:55:45 +0800] "GET /tail HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [11/May/2015:16:55:45 +0800] "GET /tail/ HTTP/1.1" 302 - http-bio-8080-exec-3 88
+0:0:0:0:0:0:0:1 - - [11/May/2015:16:55:45 +0800] "GET /tail/search HTTP/1.1" 200 5652 http-bio-8080-exec-4 76
+0:0:0:0:0:0:0:1 - - [11/May/2015:16:55:46 +0800] "GET /tail/resource/jquery/jquery.min.js HTTP/1.1" 200 95786 http-bio-8080-exec-5 117
+0:0:0:0:0:0:0:1 - - [11/May/2015:16:55:46 +0800] "GET /tail/resource/img/logo_01.png HTTP/1.1" 200 2536 http-bio-8080-exec-2 115
+0:0:0:0:0:0:0:1 - - [11/May/2015:16:55:46 +0800] "GET /tail/resource/img/logo.png HTTP/1.1" 200 15669 http-bio-8080-exec-6 55
+0:0:0:0:0:0:0:1 - - [11/May/2015:16:55:46 +0800] "GET /tail/resource/img/1.ico HTTP/1.1" 200 743 http-bio-8080-exec-8 36
+0:0:0:0:0:0:0:1 - - [11/May/2015:16:55:53 +0800] "GET /tail/search/getmsg?keyWord=%E5%8C%97%E4%BA%AC HTTP/1.1" 200 3891 http-bio-8080-exec-9 1544
+0:0:0:0:0:0:0:1 - - [11/May/2015:16:56:05 +0800] "GET /tail/search HTTP/1.1" 200 5652 http-bio-8080-exec-10 8

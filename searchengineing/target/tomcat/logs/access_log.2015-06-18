@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [18/Jun/2015:17:35:52 +0800] "GET /tail HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [18/Jun/2015:17:35:52 +0800] "GET /tail/ HTTP/1.1" 302 - http-bio-8080-exec-4 144
+0:0:0:0:0:0:0:1 - - [18/Jun/2015:17:35:52 +0800] "GET /tail/search HTTP/1.1" 200 8572 http-bio-8080-exec-5 100
+0:0:0:0:0:0:0:1 - - [18/Jun/2015:17:35:52 +0800] "GET /tail/resource/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 117150 http-bio-8080-exec-6 37
+0:0:0:0:0:0:0:1 - - [18/Jun/2015:17:35:52 +0800] "GET /tail/resource/jquery/jquery.min.js HTTP/1.1" 200 95786 http-bio-8080-exec-7 31
+0:0:0:0:0:0:0:1 - - [18/Jun/2015:17:35:52 +0800] "GET /tail/resource/img/logo_01.png HTTP/1.1" 200 2536 http-bio-8080-exec-9 93
+0:0:0:0:0:0:0:1 - - [18/Jun/2015:17:35:52 +0800] "GET /tail/resource/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 35452 http-bio-8080-exec-8 169
+0:0:0:0:0:0:0:1 - - [18/Jun/2015:17:35:52 +0800] "GET /tail/resource/img/logo.png HTTP/1.1" 200 15669 http-bio-8080-exec-9 16
+0:0:0:0:0:0:0:1 - - [18/Jun/2015:17:35:53 +0800] "GET /tail/resource/img/1.ico HTTP/1.1" 200 743 http-bio-8080-exec-9 17
+0:0:0:0:0:0:0:1 - - [18/Jun/2015:17:36:01 +0800] "GET /tail/search/getmsg?keyWord=java HTTP/1.1" 200 5476 http-bio-8080-exec-9 892
+0:0:0:0:0:0:0:1 - - [18/Jun/2015:17:36:18 +0800] "GET /tail/search/games HTTP/1.1" 404 52 http-bio-8080-exec-9 37
+0:0:0:0:0:0:0:1 - - [18/Jun/2015:17:36:18 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-9 0
+0:0:0:0:0:0:0:1 - - [18/Jun/2015:17:36:22 +0800] "GET /tail/games HTTP/1.1" 200 2917 http-bio-8080-exec-9 120
